@@ -1,0 +1,3 @@
+We are looking for a Python developer to build workflow automation tools using APIs and AI technologies.
+
+The ideal candidate should have experience with Python, automation, reporting systems, and OpenAI APIs.

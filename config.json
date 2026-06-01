@@ -1,0 +1,7 @@
+{
+    "output_folder": "outputs",
+    "proposal_file": "proposal.txt",
+    "cover_letter_file": "cover_letter.txt",
+    "followup_file": "followup.txt",
+    "summary_file": "summary.txt"
+}
